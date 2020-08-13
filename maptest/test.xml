@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Map Test Suite">
+    <test name="Map Test">
+        <classes>
+            <class name="App"/>
+        </classes>
+    </test>
+</suite>
